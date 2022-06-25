@@ -1,0 +1,14 @@
+{
+    "XF-Api-Controller-Post_HLModerators-PostEditProtect-XF-Api-Controller-Post.json": {
+        "hash": "f084457a65bc050bceca43bddf5c1089"
+    },
+    "XF-Entity-Post_HLModerators-PostEditProtect-XF-Entity-Post.json": {
+        "hash": "1041f824c15cfacfa7824d02bec4fa2e"
+    },
+    "XF-Pub-Controller-Post_HLModerators-PostEditProtect-XF-Pub-Controller-Post.json": {
+        "hash": "8c6c6c18926f3fa2b694535dc763d7f2"
+    },
+    "XF-Service-Post-Editor_HLModerators-PostEditProtect-XF-Service-Post-Editor.json": {
+        "hash": "68c0aa8c60dc3a830b4e05abd9c1bb1f"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "hlm_protect_post_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "dc689b6ff4da3f54e8303251be40bc30"
+    },
+    "hlm_protect_post_label.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "29bcf8285c9c143c32b6d829fb325432"
+    },
+    "permission.forum_hlmProtectPost.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "885997b0682af4fba78ef48770326161"
+    }
+}

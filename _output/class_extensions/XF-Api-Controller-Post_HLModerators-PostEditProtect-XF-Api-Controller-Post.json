@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Api\\Controller\\Post",
+    "to_class": "HLModerators\\PostEditProtect\\XF\\Api\\Controller\\Post",
+    "execute_order": 15,
+    "active": true
+}

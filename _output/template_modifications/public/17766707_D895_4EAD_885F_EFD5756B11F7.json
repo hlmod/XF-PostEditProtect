@@ -1,0 +1,9 @@
+{
+    "template": "post_edit",
+    "description": "Adds the row for setting \"protected post\" state",
+    "execution_order": 15,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:if is=\"$post.canSendModeratorActionAlert()\">",
+    "replace": "<xf:if is=\"$post.canProtect()\">\n\t<xf:formrow rowtype=\"{{ $quickEdit ? 'fullWidth noLabel' : '' }}\">\n\t\t<xf:checkbox>\n\t\t\t<xf:option name=\"hlm_is_protected\" selected=\"$post.hlm_is_protected\"\n\t\t\t\t\t   label=\"{{ phrase('hlm_protect_post_label') }}\"\n\t\t\t\t\t   hint=\"{{ phrase('hlm_protect_post_explain') }}\" />\n\t\t</xf:checkbox>\n\t</xf:formrow>\n</xf:if>\n\n$0"
+}

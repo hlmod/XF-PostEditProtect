@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "",
+    "title": "[HLModerators] Protect post for editing",
+    "description": "Allows moderator protect posts from editing by post owner",
+    "version_id": 1000010,
+    "version_string": "1.0.0 Alpha",
+    "dev": "HLMod",
+    "dev_url": "https://hlmod.ru/?utm_source=xenforo_acp&utm_campaign=post_edit_protect",
+    "faq_url": "",
+    "support_url": "https://hlmod.ru/support/",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2020010,
+            "XenForo v2.2+"
+        ]
+    },
+    "icon": "fad fa-shield"
+}

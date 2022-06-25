@@ -1,0 +1,1 @@
+If this is checked, then post owner can't edit or delete post.
